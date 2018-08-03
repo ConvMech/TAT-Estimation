@@ -1,0 +1,14 @@
+order_id
+order_created_at    
+priority    
+order_complexity    
+order_image_score   
+order_deliverable   
+site_id 
+number_of_stories   
+complexity_attributes_total_roof_facets 
+number_of_images    
+average_image_score 
+image_count_1_side  
+image_count_2_sides 
+turn_around_time_first_completion
